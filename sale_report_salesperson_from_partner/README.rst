@@ -61,6 +61,8 @@ Contributors
 
      - Pilar Vargas
 
+- [Heliconia Solutions Pvt. Ltd.](https://www.heliconia.io)
+
 Maintainers
 -----------
 
