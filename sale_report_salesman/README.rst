@@ -60,6 +60,7 @@ Contributors
 - `Tecnativa <https://www.tecnativa.com>`__:
 
      - Carolina Fernandez
+     - Juan Carlos Oñate
 
 Maintainers
 -----------
