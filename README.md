@@ -21,12 +21,12 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[sale_backorder](sale_backorder/) | 12.0.1.0.0 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) | Report of Un-Invoice Goods Delivered and Backorders
+[sale_backorder](sale_backorder/) | 12.0.1.0.0 | <a href='https://github.com/smangukiya'><img src='https://github.com/smangukiya.png' width='32' height='32' style='border-radius:50%;' alt='smangukiya'/></a> | Report of Un-Invoice Goods Delivered and Backorders
 [sale_comment_template](sale_comment_template/) | 12.0.1.3.1 |  | Comments texts templates on Sale documents
 [sale_layout_category_hide_detail](sale_layout_category_hide_detail/) | 12.0.1.1.2 |  | Hide details for sections in sale orders and invoices for reports and customer portal
 [sale_order_report_product_image](sale_order_report_product_image/) | 12.0.1.0.0 |  | Show product images on Sale documents
 [sale_report_country_state](sale_report_country_state/) | 12.0.1.0.0 |  | Sale Report Filter by State
-[sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 12.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered subtotal
+[sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 12.0.1.0.0 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Sale Report Delivered subtotal
 
 [//]: # (end addons)
 
