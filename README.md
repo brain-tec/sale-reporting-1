@@ -21,20 +21,20 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[sale_backorder](sale_backorder/) | 14.0.1.0.0 | [![smangukiya](https://github.com/smangukiya.png?size=30px)](https://github.com/smangukiya) | Report of Un-Invoice Goods Delivered and Backorders
+[sale_backorder](sale_backorder/) | 14.0.1.0.0 | <a href='https://github.com/smangukiya'><img src='https://github.com/smangukiya.png' width='32' height='32' style='border-radius:50%;' alt='smangukiya'/></a> | Report of Un-Invoice Goods Delivered and Backorders
 [sale_comment_template](sale_comment_template/) | 14.0.2.1.2 |  | Comments texts templates on Sale documents
 [sale_layout_category_hide_detail](sale_layout_category_hide_detail/) | 14.0.1.0.4 |  | Hide details for sections in sale orders and invoices for reports and customer portal
-[sale_order_invoice_date](sale_order_invoice_date/) | 14.0.1.0.1 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the invoice date on Sales Order analysis reports
+[sale_order_invoice_date](sale_order_invoice_date/) | 14.0.1.0.1 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Display the invoice date on Sales Order analysis reports
 [sale_order_line_position](sale_order_line_position/) | 14.0.1.2.0 |  | Adds position number on sale order line.
 [sale_order_report_product_image](sale_order_report_product_image/) | 14.0.1.0.0 |  | Show product images on Sale documents
 [sale_order_weight](sale_order_weight/) | 14.0.1.0.0 |  | Add products weight in report for sale order
 [sale_outgoing_product](sale_outgoing_product/) | 14.0.1.0.0 |  | Module that generates a view for outgoing product
-[sale_report_commitment_date](sale_report_commitment_date/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the commitment date on Sales Order analysis reports
+[sale_report_commitment_date](sale_report_commitment_date/) | 14.0.1.0.0 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Display the commitment date on Sales Order analysis reports
 [sale_report_crossed_out_original_price](sale_report_crossed_out_original_price/) | 14.0.1.1.0 |  | Sale report crossed out original price when a discount exists
-[sale_report_delivered](sale_report_delivered/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered
-[sale_report_delivered_brand](sale_report_delivered_brand/) | 14.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Sale Report Delivered Brand
-[sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Sale Report Delivered subtotal
-[sale_report_delivery_date](sale_report_delivery_date/) | 14.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Display the delivery date on Sales Order analysis reports
+[sale_report_delivered](sale_report_delivered/) | 14.0.1.0.0 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Sale Report Delivered
+[sale_report_delivered_brand](sale_report_delivered_brand/) | 14.0.1.0.0 | <a href='https://github.com/CarlosRoca13'><img src='https://github.com/CarlosRoca13.png' width='32' height='32' style='border-radius:50%;' alt='CarlosRoca13'/></a> | Sale Report Delivered Brand
+[sale_report_delivered_subtotal](sale_report_delivered_subtotal/) | 14.0.1.0.0 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Sale Report Delivered subtotal
+[sale_report_delivery_date](sale_report_delivery_date/) | 14.0.1.0.0 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Display the delivery date on Sales Order analysis reports
 
 [//]: # (end addons)
 
