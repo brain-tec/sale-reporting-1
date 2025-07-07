@@ -27,6 +27,7 @@ addon | version | maintainers | summary
 [sale_order_report_product_image](sale_order_report_product_image/) | 17.0.1.0.0 |  | Show product images on Sale documents
 [sale_quotation_builder](sale_quotation_builder/) | 17.0.1.0.1 |  | Build great quotation templates
 [sale_report_salesman](sale_report_salesman/) | 17.0.1.0.0 | <a href='https://github.com/carolina-fernandez'><img src='https://github.com/carolina-fernandez.png' width='32' height='32' style='border-radius:50%;' alt='carolina-fernandez'/></a> | Adds the Sales Reporting menu to the Salespersons user group.
+[sale_report_salesperson_from_partner](sale_report_salesperson_from_partner/) | 17.0.1.0.0 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | Sale Report Salesperson From Partner
 
 [//]: # (end addons)
 
