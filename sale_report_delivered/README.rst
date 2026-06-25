@@ -44,6 +44,15 @@ Usage
 Go to *Sales > Reporting > Sales from deliveries* and you'll find the
 new *Total Price Delivered* measure.
 
+Known issues / Roadmap
+======================
+
+Bug: Dropshipping report calculation error when changing completed
+quantities. Details: **Decreasing** the delivered quantity on a
+completed Dropshipping order causes the report to display an incorrect
+total because creates exact positive and negative SVLs. Does not happen
+when **increasing** the delivered quantity.
+
 Bug Tracker
 ===========
 
@@ -89,10 +98,13 @@ promote its widespread use.
 .. |maintainer-sergio-teruel| image:: https://github.com/sergio-teruel.png?size=40px
     :target: https://github.com/sergio-teruel
     :alt: sergio-teruel
+.. |maintainer-Shide| image:: https://github.com/Shide.png?size=40px
+    :target: https://github.com/Shide
+    :alt: Shide
 
-Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
+Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-sergio-teruel| 
+|maintainer-sergio-teruel| |maintainer-Shide| 
 
 This module is part of the `OCA/sale-reporting <https://github.com/OCA/sale-reporting/tree/18.0/sale_report_delivered>`_ project on GitHub.
 
